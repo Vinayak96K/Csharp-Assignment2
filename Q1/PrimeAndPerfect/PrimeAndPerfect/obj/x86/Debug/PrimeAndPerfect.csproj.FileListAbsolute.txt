@@ -1,0 +1,6 @@
+/home/vinayak/C#/Homework/C#Assignment2/PrimeAndPerfect/PrimeAndPerfect/bin/Debug/PrimeAndPerfect.exe
+/home/vinayak/C#/Homework/C#Assignment2/PrimeAndPerfect/PrimeAndPerfect/bin/Debug/PrimeAndPerfect.pdb
+/home/vinayak/C#/Homework/C#Assignment2/PrimeAndPerfect/PrimeAndPerfect/obj/x86/Debug/PrimeAndPerfect.csprojResolveAssemblyReference.cache
+/home/vinayak/C#/Homework/C#Assignment2/PrimeAndPerfect/PrimeAndPerfect/obj/x86/Debug/PrimeAndPerfect.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/C#Assignment2/PrimeAndPerfect/PrimeAndPerfect/obj/x86/Debug/PrimeAndPerfect.exe
+/home/vinayak/C#/Homework/C#Assignment2/PrimeAndPerfect/PrimeAndPerfect/obj/x86/Debug/PrimeAndPerfect.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{96965CB7-0307-4EB0-AA39-E23EC3CE7CD6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JaggedArray/Program.cs">
+    <Files>
+      <File FileName="JaggedArray/Program.cs" Line="116" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JaggedArray PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

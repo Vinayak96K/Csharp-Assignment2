@@ -1,0 +1,5 @@
+/home/vinayak/C#/Homework/C#Assignment2/Q4/JaggedArray/JaggedArray/bin/Debug/JaggedArray.exe
+/home/vinayak/C#/Homework/C#Assignment2/Q4/JaggedArray/JaggedArray/bin/Debug/JaggedArray.pdb
+/home/vinayak/C#/Homework/C#Assignment2/Q4/JaggedArray/JaggedArray/obj/x86/Debug/JaggedArray.csproj.CoreCompileInputs.cache
+/home/vinayak/C#/Homework/C#Assignment2/Q4/JaggedArray/JaggedArray/obj/x86/Debug/JaggedArray.exe
+/home/vinayak/C#/Homework/C#Assignment2/Q4/JaggedArray/JaggedArray/obj/x86/Debug/JaggedArray.pdb
